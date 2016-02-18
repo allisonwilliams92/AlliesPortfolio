@@ -1,0 +1,60 @@
+body{
+	text-align:center;
+	font-family: "Comic Sans", "Comic Sans MS";
+	background-color:#7FB5FF;
+}
+
+
+nav{
+	font-family:Helvetica,sans-serif;
+}
+
+p{
+	font-size:12pt;
+}
+
+#main_about{
+	border-style:solid;
+	border-width:1px 0px 1px 0px;
+	border-color:black;
+	border-top: double;
+	padding-top: 10px;
+	margin-bottom: 10px;
+}
+
+#main_portfolio{
+	text-align:left;
+	border-style:solid;
+	border-width:1px 0px 1px 0px;
+	border-color:black;
+	border-top: double;
+
+}
+
+
+span{
+	font-weight: normal;
+}
+
+img.center{
+	display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+img{
+	border: solid 1px #426E7F;
+}
+
+a{
+	color:white;
+	padding:5px;
+}
+
+#education{
+	text-align:left;
+	border:dashed 3px #426E7F;
+	margin:10px;
+	padding:10px;
+	padding-left:20px;
+}
